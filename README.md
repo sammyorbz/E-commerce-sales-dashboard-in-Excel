@@ -111,5 +111,5 @@ All modeling, transformations, calculations, and dashboard design reflect indepe
 ---
 
 📌 **Author**  
-*Data Analyst Portfolio Project*
+*Samuel Nkrumah*
 
