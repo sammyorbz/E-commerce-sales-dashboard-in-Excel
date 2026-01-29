@@ -237,4 +237,4 @@ All transformations, modeling decisions, calculations, and documentation reflect
 ---
 
 📌 **Author:**  
-*Data Analyst Portfolio Project*
+*Samuel Nkrumah*
